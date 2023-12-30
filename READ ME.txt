@@ -1,0 +1,9 @@
+Olá a todos,
+
+Meu nome é Otávio Marcatto, e estou entusiasmado em compartilhar que concluí meu primeiro projeto de site! Esse desafio foi enfrentado com muita dedicação, horas de leitura e, claro, colocando a teoria em prática, sem a utilização de IA.
+
+Reconheço que ainda há um longo caminho pela frente e muito a aprender. Contudo, cada etapa deste projeto me proporcionou valiosos aprendizados. Estou animado para compartilhar que já estou trabalhando no meu segundo projeto, que promete ter um design mais refinado, organização aprimorada e um uso mais avançado do JavaScript.
+
+Para contextualizar um pouco mais sobre minha jornada, atualmente sou aluno de Análise e Desenvolvimento de Sistemas no Mackenzie. Além disso, estou ampliando meus horizontes na área de análise de dados, estudando Python na renomada USP.
+
+!!!!! os videos se nao funcionarem de primeira, clica com o botao direito e selecione a opção "mostrar todos os controles" !!!!

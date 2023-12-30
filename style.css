@@ -1,0 +1,107 @@
+header{
+    background-image: url("mountains-moon\ new.png");
+    background-size: 100% 300%;
+    background-position: center;
+    text-align: center;
+    font-family: inherit;
+    font-size: large;
+    color: rgb(194, 71, 71)30, 223, 223;
+    }
+
+   ul{
+    text-align: center;
+    color: rgb(255, 255, 255);
+   }
+
+   h1{
+    color: rgb(2, 2, 2);
+    font-family: monospace;
+    font-size: xx-large;
+    padding-top: 25px;
+    text-decoration: dotted;
+    text-shadow: #251212;
+    padding-left: 100px;
+    font-style: italic;
+    font-style: oblique;
+    }
+    
+    body{
+    background-image: url("red-mountain-range-clean-4k-.jpg"); 
+    text-align: center;
+    color: #cecccc;
+    font-family: monospace;
+
+    }
+    
+    footer{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    color: aliceblue; 
+    
+    }
+    
+    nav{
+    display: flex;    
+    background-color: darksalmon;
+    align-items: center;
+    justify-content: center;
+    color: rgb(228, 95, 18);
+    }
+
+    aside{
+    text-align: right;    
+    margin-right: 1150px;
+    margin-top: 0px;
+    margin-bottom: 500;
+    }
+
+    .infomoon{
+     font-size: smaller;
+     text-align: center;  
+     padding-left: 280px;
+     padding-top: 90px;
+     padding-right: 280px;
+     padding-bottom: 60px;
+    }
+
+    .info{
+     font-size: smaller;
+     text-align: center;
+     padding-left: 280px;
+     padding-right: 280px;
+    }
+
+    .h2{
+     font-size: medium;
+     color: #cecccc;
+    
+    }
+
+    .video{
+    padding-left: 500px;
+
+    }
+
+    .title{
+        padding-left: 200px;
+        padding-right: 300px;
+    }
+
+    .fases{
+        margin-top: 50px;
+        padding-right: 10px;
+        
+    }
+
+    .textp{
+        padding-left: 400px;
+        padding-top: 75px;
+    }
+
+    .video2{
+        padding-top: 50px;
+    }
+
+
+
+

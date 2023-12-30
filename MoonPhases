@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PhasesMoon</title>
+</head>
+<header>
+
+    <h1><b>The Moon</b></h1>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <nav bar>
+        <ul>
+            <li>
+                <a href="MoonPhases.html">Moon Phases</a>
+            </li>
+        </ul>
+        <ul>
+            <li>
+                <a href="Home.html">Home</a>
+            </li>
+        </ul>
+        <ul>
+            <li>
+                <a href="Curiosities.html">Curiosities</a>
+            </li>
+        </ul>
+    </nav>
+    </header>
+
+
+
+
+
+<body>
+    
+</body>
+</html>
